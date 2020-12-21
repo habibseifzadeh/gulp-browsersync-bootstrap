@@ -1,0 +1,21 @@
+{
+  "name": "habib-theme",
+  "version": "1.0.0",
+  "description": "Habib Theme made by Bootstrap",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Habib Seifzadeh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
